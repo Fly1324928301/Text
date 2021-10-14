@@ -1,0 +1,7 @@
+name: '吃饭任务Bot'
+ 
+on:
+  push:
+  schedule:
+    - cron: '50 03 * * *'
+  # Allows you to run this workflow manually from the Actions tab
