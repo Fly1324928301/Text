@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
     steps:
       - name: 'Run sh'
-        run: bash ./dingding.sh
+        run: bash dingding.sh
