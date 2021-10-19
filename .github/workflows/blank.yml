@@ -13,4 +13,4 @@ jobs:
       - name: 'Checkout codes'
         uses: actions/checkout@v1
       - name: 'Run sh'
-        run: bash ./dingding.sh
+#         run: bash ./dingding.sh
